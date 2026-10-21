@@ -16,3 +16,7 @@ q1 = np.quantile(dados, 0.25)
 q2 = np.quantile(dados, 0.50)
 q3 = np.quantile(dados, 0.75)
 
+
+print("Q1:", q1)
+print("Q2:", q2)
+print("Q3:", q3)
