@@ -1,6 +1,6 @@
-# Análise de Dados 📊
+# Data Science 📊
 
-Repositório de estudos para **revisar a análise de dados com Python do básico ao avançado**, com exemplos práticos em Jupyter Notebook.
+Repositório de estudos para **revisar estudos de Data Science com Python do básico ao avançado**, com exemplos práticos em Jupyter Notebook.
 
 O estudo começa pelos fundamentos da linguagem Python e pelas bibliotecas de manipulação de dados (**NumPy** e **pandas**). Depois vêm a **estatística descritiva**, a **visualização** e a **análise exploratória (EDA)**. A trilha termina na **estatística inferencial** (testes de hipótese), em **séries temporais** e em **Machine Learning não supervisionado**.
 
